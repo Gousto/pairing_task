@@ -1,0 +1,13 @@
+Name,Surname,Age,Country
+Arthur,Ashkin,31.323,UK
+Gerard,Mourou,41.3467,FR
+Donna,Strickland,56.755,AU
+Frances,Arnold,26.8759,UK
+George,Smith,53.9730,DE
+Greg,Winter,58.53899,NL
+James,Allison,9.21,UK
+Tasuku,Honjo,79.16890,DE
+Denis,Mukwege,32.08693,NZ
+Nadia,Murad,38.9276,UK
+William,Nordhaus,46.2860,UK
+Paul,Romer,46.46897,BE
